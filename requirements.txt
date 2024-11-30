@@ -1,0 +1,11 @@
+ipykernel
+pandas
+numpy
+seaborn
+matplotlib
+nltk==3.8.1
+textblob
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+transformers
+scikit-learn
+dataclasses
