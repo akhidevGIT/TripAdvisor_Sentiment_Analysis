@@ -38,11 +38,25 @@ The aim is to analyze textual data such as Trip Advisor hotel reviews to assess 
 - **Version Control**: Git and GitHub
 
 ---
+## 🔍 Key Learnings
+- Explored differences between rule-based approaches (TextBlob) and transformer-based approaches.
+- Gained experience in applying multilingual transformer models to real-world data.
+- Enhanced understanding of preprocessing techniques for text-based data science projects.
+
+---
+
+## 🚧 Future Work
+- Fine-tune the transformer model on domain-specific datasets for improved performance.
+- Explore other transformer models like BERT, RoBERTa, or DistilBERT for comparison.
+- Extend support for more complex sentiment tasks like emotion detection or aspect-based sentiment analysis.
+
+
+---
 
 ## 📂 File Structure
 
 ```plaintext
-Sentiment-Analysis/
+TripAdvisor_Sentiment_Analysis/
 │
 ├── data/                      # Dataset folder
 │   ├── reviews.csv            # Input text data   
